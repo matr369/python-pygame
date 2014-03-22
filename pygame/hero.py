@@ -4,8 +4,8 @@ import pygame
 from pygame import *
 from blocks import *
 
-HWIDTH = 32
-HHEIGHT = 32
+HWIDTH = 30
+HHEIGHT = 30
 HCOLOR = "#3451FF"
 SPEEDH = 5
 SPEEDV = -8.5
